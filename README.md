@@ -11,3 +11,7 @@ A one-month, project-based internship as an extension of my bootcamp program, in
 The final presentation file can be accessed in the [Final Task file](https://github.com/mcikalmerdeka/Business-Intelligence-Analyst-Bank-Muamalat---Rakamin-PBI-Program/blob/main/Final%20Task_Bank%20Muamalat_BI%20Analyst_Muhammad%20Cikal%20Merdeka.pdf).
 
 Direct link to the Looker Studio dashboard can be accessed [here](https://lookerstudio.google.com/reporting/fda635b9-e00c-4c1b-baec-76738659a7ee).
+
+## Dashboard Preview
+
+![Dashboard Preview](https://github.com/mcikalmerdeka/Business-Intelligence-Analyst-Bank-Muamalat---Rakamin-PBI-Program/raw/main/Dashboard/Dashboard%20PNG.png)
