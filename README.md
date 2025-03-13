@@ -1,5 +1,7 @@
 # Business Intelligence Analyst Bank Muamalat x Rakamin Academy Project Based Internship
 
+![Project Header](https://raw.githubusercontent.com/mcikalmerdeka/Business-Intelligence-Analyst-Bank-Muamalat---Rakamin-PBI-Program/refs/heads/main/Assets/Project%20Header.jpg)
+
 A one-month, project-based internship as an extension of my bootcamp program, in collaboration with a partner company, Bank Muamalat Indonesia. This internship provided hands-on experience in conducting business analysis to support data-driven decision-making for real-world business scenarios. Key contributions included:
 
 1. Implemented basic to advanced Excel formulas for effective data analysis in credit risks case studies.
